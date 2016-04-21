@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoordinatorLayout</string>
+    <string name="msgInvalidOrientation">Orientation must not be Null!!!</string>
+</resources>
